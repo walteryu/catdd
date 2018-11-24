@@ -1,0 +1,22 @@
+Site ID,Latitude,Longitude,GE Latitude,GE Longitude,Location,Land Use,Cigarette Butts (Gallons),Total Trash (Gallons),Cig-to-Trash (Percent)
+FR-01-Inet-1-B,37.54788333,-121.9872556,"37°32'52.38""N","121°59'14.12""W",Fremont Blvd & Mowry Ave,Commercial,0.15,8.76,1.71%
+FR-01-Inet-2.1-B,37.54765,-121.9868028," 37°32'51.54""N","121°59'12.49""W",Fremont Blvd & Mowry Ave,Commercial,0.2,9.87,2.03%
+FR-01-Inet-2.2-B,37.54680556,-121.9850028," 37°32'48.50""N","121°59'6.01""W",Fremont Blvd & Mowry Ave,Commercial,0.17,12.58,1.35%
+FR-01-Sidewalk-1-B,37.54788889,-121.9873278," 37°32'52.40""N","121°59'14.38""W",Fremont Blvd & Mowry Ave,Commercial,0.4,10.55,3.79%
+FR-01-Sidewalk-2-A,37.54728611,-121.9853667," 37°32'50.23""N","121°59'7.32""W",Fremont Blvd & Mowry Ave,Commercial,0.31,24.26,1.28%
+FR-01-Street-1-B,37.54811944,-121.9876556," 37°32'53.23""N","121°59'15.56""W",Fremont Blvd & Mowry Ave,Commercial,1.15,17.3,6.65%
+FR-01-Street-2-A,37.54724722,-121.9855028," 37°32'50.09""N","121°59'7.81""W",Fremont Blvd & Mowry Ave,Commercial,0,0.03,0.00%
+FR-01-Street-2-B,37.54700556,-121.9855528," 37°32'49.22""N","121°59'7.99""W",Fremont Blvd & Mowry Ave,Commercial,0,0.11,0.00%
+OK-01-Inet-1.1-B,37.80324444,-122.2685778," 37°48'11.68""N","122°16'6.88""W",14th St & Webster,Commercial,0.6,24.68,2.43%
+OK-01-Inet-1.2-B,37.80298889,-122.2678472," 37°48'10.76""N","122°16'4.25""W",14th St & Webster,Commercial,0.42,31.97,1.31%
+OK-01-Inet-2-B,37.80250833,-122.266675," 37°48'9.03""N","122°16'0.03""W",14th St & Webster,Commercial,0.13,49,0.27%
+OK-01-Sidewalk-1-B,37.80311389,-122.2681944," 37°48'11.21""N","122°16'5.50""W",14th St & Webster,Commercial,2.13,143.04,1.49%
+OK-01-Sidewalk-2-A,37.80275556,-122.2669222," 37°48'9.92""N","122°16'0.92""W",14th St & Webster,Commercial,0.87,36.07,2.41%
+OK-01-Street-1-B,37.80305833,-122.2680056," 37°48'11.01""N","122°16'4.82""W",14th St & Webster,Commercial,1.85,120.81,1.53%
+OK-01-Street-2-A,37.80271389,-122.2669861," 37°48'9.77""N","122°16'1.15""W",14th St & Webster,Commercial,0.27,21.84,1.24%
+SJ-01-Inlet-1-B,37.32299722,-121.8252194," 37°19'22.79""N","121°49'30.79""W",Tully Road & King,Commercial,0.08,2.28,3.51%
+SJ-01-Inlet-2-B,37.32379444,-121.8240972," 37°19'25.66""N","121°49'26.75""W",Tully Road & King,Commercial,0.25,2.42,10.33%
+SJ-01-Sidewalk-1-B,37.32355,-121.8244722," 37°19'24.78""N","121°49'28.10""W",Tully Road & King,Commercial,0.31,10.74,2.89%
+SJ-01-Sidewalk-2-A,37.32290556,-121.8254556," 37°19'22.46""N","121°49'31.64""W",Tully Road & King,Commercial,0.34,9.56,3.56%
+SJ-01-Street-1-B,37.32360556,-121.8242806," 37°19'24.98""N","121°49'27.41""W",Tully Road & King,Commercial,0.62,8.22,7.54%
+SJ-01-Street-2-A,37.32279444,-121.8254583," 37°19'22.06""N","121°49'31.65""W",Tully Road & King,Commercial,0.19,2.03,9.36%
