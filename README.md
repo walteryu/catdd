@@ -1,6 +1,6 @@
-# 2018 CA Trash Data Dive - Quantifying Water Quality Impacts of Tobacco in Litter
+# 2018 CA Trash Data Dive
 
-## Trash Characterization and Pollution Impacts Data Analysis
+## Quantifying Water Quality Impacts of Tobacco in Litter
 
 ### Author: Walter Yu, P.E.
 
@@ -8,9 +8,9 @@
 
 The State Water Resources Control Board (SWRCB) is in process of adopting its [Trash Amendments](https://www.waterboards.ca.gov/water_issues/programs/stormwater/trash_implementation.html) which prohibit trash discharge to Waters of the State to minimize environmental impacts. One major component of trash is cigarette butts and tobacco products which are a form of non-biodegradable litter. In addition, this litter contains tobacco which may lead to health impacts when incorporated into discharged runoff. The National Institute of Health (NIH) published an [article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697937/) in 2009 which outlines these impacts and recommendations for reducing them. As a result, this study evaluates methods to quantify potential water quality and health impacts of tobacco incorporated into litter.
 
-This study was developed as part of the 2018 CA Trash Data Dive which was organized by the SWRCB and hosted by the San Francisco Estuary Institute. It analyzes trash characterization data from the Bay Area Stormwater Management Agencies Association (BASMAA) street sweeping and curb inlet screen [evaluation study](http://basmaa.org/Announcements/tracking-cas-trash-street-sweeping-curb-inlet-screen-evaluation) and the [CalEnviroScreen dataset](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-30) provided by the CA Environmental Protection Agency (CalEPA).
-
 ### Introduction
+
+This study was developed as part of the 2018 CA Trash Data Dive which was organized by the SWRCB and hosted by the San Francisco Estuary Institute. It analyzes trash characterization data from the Bay Area Stormwater Management Agencies Association (BASMAA) street sweeping and curb inlet screen [evaluation study](http://basmaa.org/Announcements/tracking-cas-trash-street-sweeping-curb-inlet-screen-evaluation) and the [CalEnviroScreen dataset](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-30) provided by the CA Environmental Protection Agency (CalEPA).
 
 Quantifying the impacts of tobacco in litter would help with develop public policy and shifting public opinion, so this study address the questions listed below with data analysis and visualization:
 
